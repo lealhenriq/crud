@@ -66,3 +66,6 @@ Este projeto é um sistema web desenvolvido para gerenciar os produtos de uma di
 - Configuração do banco de dados SQLite.
 
 ---
+
+### **Vídeo de apresentação**
+- https://github.com/user-attachments/assets/77cc522f-3d2d-4f4f-a2a6-7580a8cc335f
